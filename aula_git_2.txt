@@ -1,0 +1,2 @@
+Hoje é a segunda de git da turma 6!
+teste
